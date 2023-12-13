@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T12:10:28.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.8" etag="GX1e0y22tUn8U-x_7n4s" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T12:19:40.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.8" etag="rNBqBgdTHmBq3Gdxq6bO" type="github">
   <diagram id="JA2tO2080ZlamoDettxj" name="Page-1">
-    <mxGraphModel dx="1834" dy="-274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2955" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,11 +168,15 @@
         <mxCell id="label53" value="stripGen" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge8" vertex="1" connectable="0">
           <mxGeometry x="181" y="1616" as="geometry" />
         </mxCell>
-        <mxCell id="edge6" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=1;startArrow=none;endArrow=openThin;endSize=12;strokeColor=#595959;exitX=0.576;exitY=1.000;exitDx=0;exitDy=0;entryX=0.026;entryY=0.611;entryDx=0;entryDy=0;" parent="1" source="node8" target="node2" edge="1">
+        <mxCell id="edge6" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=1;startArrow=none;endArrow=openThin;endSize=12;strokeColor=#595959;exitX=0.576;exitY=1.000;exitDx=0;exitDy=0;entryX=0.026;entryY=0.611;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-208" y="2022" />
+              <mxPoint x="20" y="2022" />
+              <mxPoint x="20" y="2025" />
             </Array>
+            <mxPoint x="-207.952" y="1873" as="sourcePoint" />
+            <mxPoint x="32" y="2024.9303797468358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="label38" value="«create»" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge6" vertex="1" connectable="0">
